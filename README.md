@@ -1,3 +1,3 @@
 # MyHugo
 
-https://katzkawai.org/MyHugo
+https://katzkawai.org/MyHugo/
