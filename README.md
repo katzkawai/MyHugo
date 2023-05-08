@@ -1,2 +1,3 @@
 # MyHugo
-myhugo
+
+https://katzkawai.org/MyHugo
