@@ -1,0 +1,2 @@
+# MyHugo
+myhugo
