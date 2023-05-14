@@ -5,6 +5,16 @@
     <link>http://katzkawai.org/MyHugo/categories/</link>
     <description>Recent content in Categories on わたしのHugoサイト</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-JP</language><atom:link href="http://katzkawai.org/MyHugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 14 May 2023 13:11:00 +0900</lastBuildDate><atom:link href="http://katzkawai.org/MyHugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>category1</title>
+      <link>http://katzkawai.org/MyHugo/categories/category1/</link>
+      <pubDate>Sun, 14 May 2023 13:11:00 +0900</pubDate>
+      
+      <guid>http://katzkawai.org/MyHugo/categories/category1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

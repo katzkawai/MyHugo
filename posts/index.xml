@@ -6,7 +6,34 @@
     <description>Recent content in Posts on わたしのHugoサイト</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 09 May 2023 17:21:04 +0900</lastBuildDate><atom:link href="http://katzkawai.org/MyHugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 May 2023 13:11:00 +0900</lastBuildDate><atom:link href="http://katzkawai.org/MyHugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6番目のポスト</title>
+      <link>http://katzkawai.org/MyHugo/posts/my-6th-post/</link>
+      <pubDate>Sun, 14 May 2023 13:11:00 +0900</pubDate>
+      
+      <guid>http://katzkawai.org/MyHugo/posts/my-6th-post/</guid>
+      <description>これは6番目のポストです。</description>
+    </item>
+    
+    <item>
+      <title>5番目のポスト</title>
+      <link>http://katzkawai.org/MyHugo/posts/my-5th-post/</link>
+      <pubDate>Sun, 14 May 2023 13:05:00 +0900</pubDate>
+      
+      <guid>http://katzkawai.org/MyHugo/posts/my-5th-post/</guid>
+      <description>これは5番目のポストです。</description>
+    </item>
+    
+    <item>
+      <title>4番目のポスト</title>
+      <link>http://katzkawai.org/MyHugo/posts/my-4th-post/</link>
+      <pubDate>Sun, 14 May 2023 13:01:00 +0900</pubDate>
+      
+      <guid>http://katzkawai.org/MyHugo/posts/my-4th-post/</guid>
+      <description>4番目のポストです。</description>
+    </item>
+    
     <item>
       <title>3つめのポスト</title>
       <link>http://katzkawai.org/MyHugo/posts/my-third-post/</link>

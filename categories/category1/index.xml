@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>category1 on わたしのHugoサイト</title>
+    <link>http://katzkawai.org/MyHugo/categories/category1/</link>
+    <description>Recent content in category1 on わたしのHugoサイト</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 14 May 2023 13:11:00 +0900</lastBuildDate><atom:link href="http://katzkawai.org/MyHugo/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>6番目のポスト</title>
+      <link>http://katzkawai.org/MyHugo/posts/my-6th-post/</link>
+      <pubDate>Sun, 14 May 2023 13:11:00 +0900</pubDate>
+      
+      <guid>http://katzkawai.org/MyHugo/posts/my-6th-post/</guid>
+      <description>これは6番目のポストです。</description>
+    </item>
+    
+    <item>
+      <title>5番目のポスト</title>
+      <link>http://katzkawai.org/MyHugo/posts/my-5th-post/</link>
+      <pubDate>Sun, 14 May 2023 13:05:00 +0900</pubDate>
+      
+      <guid>http://katzkawai.org/MyHugo/posts/my-5th-post/</guid>
+      <description>これは5番目のポストです。</description>
+    </item>
+    
+    <item>
+      <title>4番目のポスト</title>
+      <link>http://katzkawai.org/MyHugo/posts/my-4th-post/</link>
+      <pubDate>Sun, 14 May 2023 13:01:00 +0900</pubDate>
+      
+      <guid>http://katzkawai.org/MyHugo/posts/my-4th-post/</guid>
+      <description>4番目のポストです。</description>
+    </item>
+    
+  </channel>
+</rss>
