@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>こんにちはセカイ</title>
+      <link>http://katzkawai.org/MyHugo/posts/hello-world/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0900</pubDate>
+      
+      <guid>http://katzkawai.org/MyHugo/posts/hello-world/</guid>
+      <description>こんにちはセカイ</description>
+    </item>
+    
+    <item>
       <title>3つめのポスト</title>
       <link>http://katzkawai.org/MyHugo/posts/my-third-post/</link>
       <pubDate>Tue, 09 May 2023 17:21:04 +0900</pubDate>
